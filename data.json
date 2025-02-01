@@ -1,0 +1,766 @@
+{
+    "all_channels": {
+        "1273995135516151922": {
+            "id": 1273995135516151922,
+            "name": "moderator-only",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1293173878566289529": {
+            "id": 1293173878566289529,
+            "name": "\ud83d\udce2\ufe31th\u00f4ng-b\u00e1o",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1293175220949225472": {
+            "id": 1293175220949225472,
+            "name": "\ud83d\udce3\ufe31video-m\u1edbi",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1273995135516151919": {
+            "id": 1273995135516151919,
+            "name": "\ud83d\udc96\ufe31th\u00f4ng-b\u00e1o",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1284661750628880415": {
+            "id": 1284661750628880415,
+            "name": "\ud83d\udcac\ufe31general",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1284661753179013212": {
+            "id": 1284661753179013212,
+            "name": "\ud83e\udd16\ufe31bot-commands",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1284661755284557967": {
+            "id": 1284661755284557967,
+            "name": "\ud83d\udc38\ufe31memes",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1284661756135870486": {
+            "id": 1284661756135870486,
+            "name": "\ud83c\udf8a\ufe31advertisements",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1284661757209477252": {
+            "id": 1284661757209477252,
+            "name": "\ud83e\udd14\ufe31suggestions",
+            "guild_id": 1182611745211162696,
+            "guild_name": "Kyler Gang"
+        },
+        "1196436821152899073": {
+            "id": 1196436821152899073,
+            "name": "hexalithvn",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1295351429447553026": {
+            "id": 1295351429447553026,
+            "name": "wick-logs",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1316794874082754591": {
+            "id": 1316794874082754591,
+            "name": "codes",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1196438126206402660": {
+            "id": 1196438126206402660,
+            "name": "\ud83d\udce3\ufe31\ud835\udda0\ud835\uddc7\ud835\uddc7\ud835\uddc8\ud835\uddce\ud835\uddbc\ud835\uddbe\ud835\uddc6\ud835\uddbe\ud835\uddc7\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1196439504916074586": {
+            "id": 1196439504916074586,
+            "name": "\ud83d\udce3\ufe31\ud835\uddb5\ud835\uddc2\ud835\uddbd\ud835\uddbe\ud835\uddc8",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1296441965885263956": {
+            "id": 1296441965885263956,
+            "name": "\ud83d\udcdc\ufe31\ud835\uddb1\ud835\uddce\ud835\uddc5\ud835\uddbe\ud835\uddcc",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1315028299722002512": {
+            "id": 1315028299722002512,
+            "name": "\ud83e\udd1d\ufe31\ud835\uddaf\ud835\uddba\ud835\uddcb\ud835\uddcd\ud835\uddc7\ud835\uddbe\ud835\uddcb",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1315315817205858375": {
+            "id": 1315315817205858375,
+            "name": "\u2705\ufe31\ud835\uddae\ud835\uddd0\ud835\uddc7\ud835\uddbe\ud835\uddcb-\ud835\udda0\ud835\uddbc\ud835\uddbc\ud835\uddc8\ud835\uddce\ud835\uddc7\ud835\uddcd\ud835\uddcc-\ud835\uddaf\ud835\uddcb\ud835\uddc8\ud835\uddc8\ud835\uddbf\ud835\uddc6\ud835\uddbe\ud835\uddc7\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1320034788459020439": {
+            "id": 1320034788459020439,
+            "name": "\ud83d\udc36\ufe31\ud835\uddb2\ud835\uddbc\ud835\uddba\ud835\uddc6\ud835\uddc6\ud835\uddbe\ud835\uddcb\ud835\uddcc",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1295384762642595851": {
+            "id": 1295384762642595851,
+            "name": "\u2705\ufe31\ud835\uddb5\ud835\uddbe\ud835\uddcb\ud835\uddc2\ud835\uddbf\ud835\uddd2",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1295038778360070254": {
+            "id": 1295038778360070254,
+            "name": "\ud83d\udc36\ufe31\ud835\udda2racked-\ud835\uddaaids",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1196444369616646174": {
+            "id": 1196444369616646174,
+            "name": "\ud83d\udcac\ufe31\ud835\udda2\ud835\uddc1\ud835\uddba\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1314978859728502852": {
+            "id": 1314978859728502852,
+            "name": "\ud83d\udcac\ufe31\ud835\uddb2\ud835\uddce\ud835\uddc9\ud835\uddc9\ud835\uddc8\ud835\uddcb\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1323405703997816832": {
+            "id": 1323405703997816832,
+            "name": "\ud83d\udcac\ufe31\ud835\udda1\ud835\uddc8\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1294631407204827169": {
+            "id": 1294631407204827169,
+            "name": "\ud83d\udcac\ufe31\ud835\uddaf\ud835\uddcb\ud835\uddc2\ud835\uddcf\ud835\uddba\ud835\uddcd\ud835\uddbe",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1293222560531615747": {
+            "id": 1293222560531615747,
+            "name": "\ud83d\udcd6\ufe31\ud835\udda1\ud835\uddc5\ud835\uddba\ud835\uddbc\ud835\uddc4\ud835\uddc5\ud835\uddc2\ud835\uddcc\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1196443636003508284": {
+            "id": 1196443636003508284,
+            "name": "\ud83d\udc96\ufe31\ud835\udda1\ud835\uddc2\ud835\uddc5\ud835\uddc5",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1261858936613765204": {
+            "id": 1261858936613765204,
+            "name": "\ud83d\udcc1\ufe31\ud835\udda5\ud835\udda5\ud835\uddb7\ud835\udfea\ud835\udfe8",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1261730057349758976": {
+            "id": 1261730057349758976,
+            "name": "\ud83d\udcbb\ufe31\ud835\udda4\ud835\uddc6\ud835\uddce\ud835\uddc5\ud835\uddba\ud835\uddcd\ud835\uddc8\ud835\uddcb",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1268594955404705812": {
+            "id": 1268594955404705812,
+            "name": "\u2b50\ufe31\ud835\udda5\ud835\uddbe\ud835\uddbe\ud835\uddbd\ud835\uddbb\ud835\uddba\ud835\uddbc\ud835\uddc4",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1306137806871072788": {
+            "id": 1306137806871072788,
+            "name": "\ud83d\udd14\ufe31\ud835\udda7\ud835\uddb7\ud835\uddab-\ud835\udda5\ud835\uddce\ud835\uddc5\ud835\uddc5",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1315251503124185148": {
+            "id": 1315251503124185148,
+            "name": "\ud83d\udd14\ufe31\ud835\udda7\ud835\uddb7\ud835\uddab-\ud835\uddab\ud835\uddc2\ud835\uddcd\ud835\uddbe",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1327908814162493564": {
+            "id": 1327908814162493564,
+            "name": "\ud83d\udd14\ufe31\ud835\udda7\ud835\uddb7\ud835\uddab-\ud835\uddd1-\ud835\udda2\ud835\udda0\ud835\uddb7",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1326772041314996276": {
+            "id": 1326772041314996276,
+            "name": "\ud83d\udd14\ufe31\ud835\udda5\ud835\uddc2\ud835\uddd1-\ud835\udda4\ud835\uddcb\ud835\uddcb\ud835\uddc8\ud835\uddcb",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1293198896771895377": {
+            "id": 1293198896771895377,
+            "name": "\ud83c\udfab\ufe31\ud835\uddb3\ud835\uddc2\ud835\uddbc\ud835\uddc4\ud835\uddbe\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1294628057000181780": {
+            "id": 1294628057000181780,
+            "name": "\ud83d\udcb8\ufe31\ud835\uddaf\ud835\uddba\ud835\uddd2\ud835\uddc6\ud835\uddbe\ud835\uddc7\ud835\uddcd-\ud835\uddac\ud835\uddbe\ud835\uddcd\ud835\uddc1\ud835\uddc8\ud835\uddbd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1293217489391718451": {
+            "id": 1293217489391718451,
+            "name": "\ud83d\uded2\ufe31\ud835\udda7\ud835\uddb7\ud835\uddab-\ud835\udda2\ud835\uddc1\ud835\uddba\ud835\uddd2",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1294626292729380894": {
+            "id": 1294626292729380894,
+            "name": "\ud83d\uded2\ufe31\ud835\uddb1\ud835\uddbe\ud835\uddc0\ud835\uddbe\ud835\uddbd\ud835\uddc2\ud835\uddcd-\ud835\uddaf\ud835\udda2",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1305878154698817586": {
+            "id": 1305878154698817586,
+            "name": "\ud83d\uded2\ufe31\ud835\uddb1\ud835\uddbe\ud835\uddc0\ud835\uddbe\ud835\uddbd\ud835\uddc2\ud835\uddcd-\ud835\udda8\ud835\uddae\ud835\uddb2",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1302659947976196147": {
+            "id": 1302659947976196147,
+            "name": "\ud83d\uded2\ufe31\ud835\uddb1\ud835\uddbe\ud835\uddc0\ud835\uddbe\ud835\uddbd\ud835\uddc2\ud835\uddcd-\ud835\udda0\ud835\udda3\ud835\uddb1",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1294625826519646209": {
+            "id": 1294625826519646209,
+            "name": "\ud83d\uded2\ufe31\ud835\uddac\ud835\uddc2\ud835\uddc7\ud835\uddc2-\ud835\uddaf\ud835\uddba\ud835\uddc7\ud835\uddbe\ud835\uddc5",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1302449375590617219": {
+            "id": 1302449375590617219,
+            "name": "\ud83d\uded2\ufe31\ud835\udda2\ud835\uddc8\ud835\uddc6\ud835\uddbb\ud835\uddc8-\ud835\uddb2\ud835\uddc7\ud835\uddc2\ud835\uddc9\ud835\uddbe\ud835\uddcb",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1311653059868364880": {
+            "id": 1311653059868364880,
+            "name": "\ud83d\uded2\ufe31\ud835\udda7\ud835\uddbe\ud835\uddd1\ud835\uddba\ud835\uddc5\ud835\uddc2\ud835\uddcd\ud835\uddc1-\ud835\udda4\ud835\uddd1\ud835\uddcd\ud835\uddbe\ud835\uddcb\ud835\uddc7\ud835\uddba\ud835\uddc5",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1294911114953359370": {
+            "id": 1294911114953359370,
+            "name": "\ud83d\uded2\ufe31\ud835\udda7\ud835\uddbe\ud835\uddd1\ud835\uddba\ud835\uddc5\ud835\uddc2\ud835\uddcd\ud835\uddc1-\ud835\uddab\ud835\uddc2\ud835\uddcd\ud835\uddbe",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1294625937362518057": {
+            "id": 1294625937362518057,
+            "name": "\ud83d\uded2\ufe31\ud835\udda7\ud835\uddbe\ud835\uddd1\ud835\uddba\ud835\uddc5\ud835\uddc2\ud835\uddcd\ud835\uddc1-\ud835\udda5\ud835\uddce\ud835\uddc5\ud835\uddc5",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1319546109219176458": {
+            "id": 1319546109219176458,
+            "name": "\ud83d\uded2\ufe31\ud835\udda7\ud835\uddbe\ud835\uddd1\ud835\uddba\ud835\uddc5\ud835\uddc2\ud835\uddcd\ud835\uddc1-\ud835\uddad\ud835\uddbe\ud835\uddd1\ud835\uddce\ud835\uddcc",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1312286152165949470": {
+            "id": 1312286152165949470,
+            "name": "\ud83d\uded2\ufe31\ud835\udda1\ud835\uddd2\ud835\uddc9\ud835\uddba\ud835\uddcc\ud835\uddcc-\ud835\udda4\ud835\uddc6\ud835\uddce\ud835\uddc5\ud835\uddba\ud835\uddcd\ud835\uddc8\ud835\uddcb",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1317659410365157429": {
+            "id": 1317659410365157429,
+            "name": "\ud83d\uded2\ufe31\ud835\uddb4\ud835\uddc5\ud835\uddcd\ud835\uddc2\ud835\uddc6\ud835\uddba\ud835\uddcd\ud835\uddbe-\ud835\udda8\ud835\uddc7\ud835\uddcd\ud835\uddbe\ud835\uddcb\ud835\uddc7\ud835\uddba\ud835\uddc5",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1327902868648362065": {
+            "id": 1327902868648362065,
+            "name": "\ud83d\uded2\ufe31\ud835\udda7\ud835\uddb7\ud835\uddab-\ud835\uddd1-\ud835\udda2\ud835\udda0\ud835\uddb7",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1310093702626279485": {
+            "id": 1310093702626279485,
+            "name": "\ud83d\uded2\ufe31\ud835\uddae\ud835\uddc9\ud835\uddcd\ud835\uddc2\ud835\uddc6\ud835\uddc2\ud835\uddd3\ud835\uddbe",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1304464748103991409": {
+            "id": 1304464748103991409,
+            "name": "\ud83d\uded2\ufe31\ud835\udda3\ud835\uddc2\u0323\ud835\uddbc\ud835\uddc1-\ud835\uddb5\ud835\uddce\u0323-\ud835\uddac\ud835\uddb7\ud835\udda7",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1310952311509614632": {
+            "id": 1310952311509614632,
+            "name": "\ud83d\uded2\ufe31\ud835\udda5\ud835\uddcb\ud835\uddbe\ud835\uddbe-\ud835\udda5\ud835\uddc2\ud835\uddcb\ud835\uddbe-\ud835\udda0\ud835\uddbc\ud835\uddbc\ud835\uddc8\ud835\uddce\ud835\uddc7\ud835\uddcd",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1329782346206941286": {
+            "id": 1329782346206941286,
+            "name": "\ud83d\uded2\ufe31other-panel-hax",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1303697641544089612": {
+            "id": 1303697641544089612,
+            "name": "ticket-119",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1304667552756138015": {
+            "id": 1304667552756138015,
+            "name": "ticket-130",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1305040401744527403": {
+            "id": 1305040401744527403,
+            "name": "ticket-132",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1305909437831057519": {
+            "id": 1305909437831057519,
+            "name": "ticket-139",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1307040425110142987": {
+            "id": 1307040425110142987,
+            "name": "ticket-144",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1307836695428993115": {
+            "id": 1307836695428993115,
+            "name": "ticket-150",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1309921103199862887": {
+            "id": 1309921103199862887,
+            "name": "ticket-162",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1310190692114366464": {
+            "id": 1310190692114366464,
+            "name": "ticket-166",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1310572527080443944": {
+            "id": 1310572527080443944,
+            "name": "ticket-168",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1311232205976109056": {
+            "id": 1311232205976109056,
+            "name": "ticket-174",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1311323832228905002": {
+            "id": 1311323832228905002,
+            "name": "ticket-176",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1311509731868934154": {
+            "id": 1311509731868934154,
+            "name": "ticket-177",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1311582996117192735": {
+            "id": 1311582996117192735,
+            "name": "ticket-178",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1311660307772473354": {
+            "id": 1311660307772473354,
+            "name": "ticket-179",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1312651827992596561": {
+            "id": 1312651827992596561,
+            "name": "ticket-188",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1313521207865507970": {
+            "id": 1313521207865507970,
+            "name": "ticket-193",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1313893547937763338": {
+            "id": 1313893547937763338,
+            "name": "ticket-195",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1314182282596319317": {
+            "id": 1314182282596319317,
+            "name": "ticket-197",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1314461689932025897": {
+            "id": 1314461689932025897,
+            "name": "ticket-198",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1314472790476324897": {
+            "id": 1314472790476324897,
+            "name": "ticket-199",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1314571248675717150": {
+            "id": 1314571248675717150,
+            "name": "ticket-201",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1314776912266133514": {
+            "id": 1314776912266133514,
+            "name": "ticket-202",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1314973225523875940": {
+            "id": 1314973225523875940,
+            "name": "ticket-203",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1315274572240650270": {
+            "id": 1315274572240650270,
+            "name": "ticket-206",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1315315422924640256": {
+            "id": 1315315422924640256,
+            "name": "ticket-207",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1315604499745734656": {
+            "id": 1315604499745734656,
+            "name": "ticket-208",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1316327538900860979": {
+            "id": 1316327538900860979,
+            "name": "ticket-210",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1310463527491997726": {
+            "id": 1310463527491997726,
+            "name": "\ud83c\udf81\ufe31\ud835\uddaf\ud835\uddba\ud835\uddc7\ud835\uddbe\ud835\uddc5",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1196444961068023928": {
+            "id": 1196444961068023928,
+            "name": "\ud83c\udf81\ufe31\ud835\udda5\ud835\uddcb\ud835\uddbe\ud835\uddbe",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1262017884255817791": {
+            "id": 1262017884255817791,
+            "name": "\ud83c\udf38\ufe31\ud835\uddac\ud835\uddbe\ud835\uddc6\ud835\uddbb\ud835\uddbe\ud835\uddcb-\ud835\uddb2\ud835\uddc1\ud835\uddba\ud835\uddcb\ud835\uddbe",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1316636778282881036": {
+            "id": 1316636778282881036,
+            "name": "ticket-212",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1316735781838000171": {
+            "id": 1316735781838000171,
+            "name": "ticket-214",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1317470567246594111": {
+            "id": 1317470567246594111,
+            "name": "ticket-216",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1317695934422978600": {
+            "id": 1317695934422978600,
+            "name": "ticket-221",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1317922014333370469": {
+            "id": 1317922014333370469,
+            "name": "ticket-222",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1317659255909777470": {
+            "id": 1317659255909777470,
+            "name": "ticket-220",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1319540627662438462": {
+            "id": 1319540627662438462,
+            "name": "ticket-227",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1318747982878867511": {
+            "id": 1318747982878867511,
+            "name": "ticket-225",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1319245598641229855": {
+            "id": 1319245598641229855,
+            "name": "ticket-226",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1319541579563667521": {
+            "id": 1319541579563667521,
+            "name": "ticket-228",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1319921067808133181": {
+            "id": 1319921067808133181,
+            "name": "ticket-234",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1319986803238764564": {
+            "id": 1319986803238764564,
+            "name": "ticket-235",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1320231032838033450": {
+            "id": 1320231032838033450,
+            "name": "ticket-237",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1320266734225195099": {
+            "id": 1320266734225195099,
+            "name": "ticket-239",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1320710133923450940": {
+            "id": 1320710133923450940,
+            "name": "ticket-240",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1320724417537376259": {
+            "id": 1320724417537376259,
+            "name": "ticket-241",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1320749845211910155": {
+            "id": 1320749845211910155,
+            "name": "ticket-242",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1322136360814903399": {
+            "id": 1322136360814903399,
+            "name": "ticket-248",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1322186872000086017": {
+            "id": 1322186872000086017,
+            "name": "ticket-249",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1322413209344278609": {
+            "id": 1322413209344278609,
+            "name": "ticket-250",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1322642080509726830": {
+            "id": 1322642080509726830,
+            "name": "ticket-253",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1323263736307388477": {
+            "id": 1323263736307388477,
+            "name": "ticket-255",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1323678869252739215": {
+            "id": 1323678869252739215,
+            "name": "ticket-258",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1323976579076063232": {
+            "id": 1323976579076063232,
+            "name": "ticket-261",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1324393767981158480": {
+            "id": 1324393767981158480,
+            "name": "ticket-266",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1325803910744772681": {
+            "id": 1325803910744772681,
+            "name": "ticket-270",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1325819148936286249": {
+            "id": 1325819148936286249,
+            "name": "ticket-272",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1326069731039514684": {
+            "id": 1326069731039514684,
+            "name": "ticket-279",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1326172566750101565": {
+            "id": 1326172566750101565,
+            "name": "ticket-281",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1326416458946707536": {
+            "id": 1326416458946707536,
+            "name": "ticket-283",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1326924564860764250": {
+            "id": 1326924564860764250,
+            "name": "ticket-284",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1327263799207792714": {
+            "id": 1327263799207792714,
+            "name": "ticket-285",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1328341050703614044": {
+            "id": 1328341050703614044,
+            "name": "ticket-287",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1329061545480687709": {
+            "id": 1329061545480687709,
+            "name": "ticket-289",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1329242401327284224": {
+            "id": 1329242401327284224,
+            "name": "ticket-290",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1329724349619634227": {
+            "id": 1329724349619634227,
+            "name": "ticket-291",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1330168159927533671": {
+            "id": 1330168159927533671,
+            "name": "ticket-292",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1332251265899565096": {
+            "id": 1332251265899565096,
+            "name": "ticket-294",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1332305964069814282": {
+            "id": 1332305964069814282,
+            "name": "ticket-295",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1332329872869032068": {
+            "id": 1332329872869032068,
+            "name": "ticket-297",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1332940458497806390": {
+            "id": 1332940458497806390,
+            "name": "ticket-298",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1333151962128056381": {
+            "id": 1333151962128056381,
+            "name": "ticket-299",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1333809504101339136": {
+            "id": 1333809504101339136,
+            "name": "ticket-300",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1334439907283832842": {
+            "id": 1334439907283832842,
+            "name": "ticket-302",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        },
+        "1334611550740283574": {
+            "id": 1334611550740283574,
+            "name": "ticket-303",
+            "guild_id": 1196418011058405466,
+            "guild_name": "Hexalith VN"
+        }
+    }
+}
